@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Sujwn",
+		title: "Suhlani Juwan",
 		name: "Suhlani Juwan",
 		email: "suhlanijuwan@gmail.com",
 		logo: "../logo.png",
