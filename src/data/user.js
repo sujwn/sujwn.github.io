@@ -26,9 +26,9 @@ const INFO = {
 	},
 
 	experiences: {
-		title: "I am passionate about pushing the boundaries of what's possible, driving innovation forward for the future.",
+		title: "My professional journey and experiences.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Chronological collection of my long-form thoughts on programming.",
 	},
 
 	projects: [
@@ -43,6 +43,7 @@ const INFO = {
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/nodedotjs.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/socketdotio.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/amazonaws.svg",
 			]
 		},
 		{
@@ -57,6 +58,7 @@ const INFO = {
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/socketdotio.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/redis.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/amazonaws.svg",
 			]
 		},
 		{
@@ -70,6 +72,7 @@ const INFO = {
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/go.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/openai.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/microsoftazure.svg",
 			]
 		},
 		{
@@ -84,6 +87,7 @@ const INFO = {
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/googlemaps.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/socketdotio.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/amazonaws.svg",
 			]
 		},
 		{
