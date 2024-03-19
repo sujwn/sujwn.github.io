@@ -137,7 +137,7 @@ const INFO = {
 		},
 
 		{
-			title: "Corporat E-Governance System",
+			title: "Corporate E-Governance System",
 			description:
 				"A robust platform designed to streamline corporate governance processes with efficiency and transparency. From managing board meetings, agendas, and resolutions to centralizing document management and compliance monitoring, the system ensures seamless governance operations.",
 			logo: "https://static.vecteezy.com/system/resources/previews/010/869/734/original/file-management-concept-illustration-modern-concept-of-file-management-system-online-document-storage-service-free-png.png",
