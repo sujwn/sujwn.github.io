@@ -122,7 +122,7 @@ const INFO = {
 		},
 
 		{
-			title: "Road Traffic Management System",
+			title: "Toll Road Management System",
 			description:
 				"Toll Road Monitoring System offers real-time monitoring of road and traffic conditions on toll roads. The system provides status updates for on-site devices and enables users to report accidents or incidents. Gain insights through general reports for a smoother operation.",
 			logo: "https://leapmax.ai/wp-content/uploads/2020/09/System-status-using-employee-monitoring-software.png",
