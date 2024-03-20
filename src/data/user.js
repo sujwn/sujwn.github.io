@@ -69,10 +69,9 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://sickgpt.io",
 			stack: [
-				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/go.svg",
-				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/nodedotjs.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/mongodb.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/openai.svg",
-				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/microsoftazure.svg",
 			]
 		},
 		{
@@ -83,7 +82,7 @@ const INFO = {
 			linkText: "View Project",
 			link: "#",
 			stack: [
-				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/nodedotjs.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/go.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/googlemaps.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/socketdotio.svg",
