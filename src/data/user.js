@@ -7,7 +7,7 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/songjwn",
+		// twitter: "https://twitter.com/songjwn",
 		github: "https://github.com/sujwn",
 		linkedin: "https://linkedin.com/in/suju",
 		instagram: "https://instagram.com/sujwn_",
@@ -83,6 +83,7 @@ const INFO = {
 			link: "#",
 			stack: [
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/go.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/react.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/googlemaps.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/socketdotio.svg",
@@ -98,6 +99,7 @@ const INFO = {
 			link: "#",
 			stack: [
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/php.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/laravel.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/mysql.svg",
@@ -115,6 +117,7 @@ const INFO = {
 			link: "#",
 			stack: [
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/php.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/laravel.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/mysql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/redis.svg",
 			]
@@ -129,6 +132,7 @@ const INFO = {
 			link: "#",
 			stack: [
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/php.svg",
+				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/symphony.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/postgresql.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/socket-dot-io.svg",
 				"https://cdn.jsdelivr.net/npm/simple-icons@11.9.0/icons/googlemaps.svg",
@@ -136,7 +140,7 @@ const INFO = {
 		},
 
 		{
-			title: "Corporate E-Governance System",
+			title: "Corporate E-Governance Management System",
 			description:
 				"A robust platform designed to streamline corporate governance processes with efficiency and transparency. From managing board meetings, agendas, and resolutions to centralizing document management and compliance monitoring, the system ensures seamless governance operations.",
 			logo: "https://static.vecteezy.com/system/resources/previews/010/869/734/original/file-management-concept-illustration-modern-concept-of-file-management-system-online-document-storage-service-free-png.png",
