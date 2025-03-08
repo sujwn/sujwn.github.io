@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Backend Developer",
+		"company": "PT Bank SMBC Indonesia Tbk",
+		"duration": "May 2024 - Present",
+		"description": "- Developing scalable backend architectures for digital banking systems."
+	},
+	{
+		"title": "Backend Developer",
+		"company": "PT Pratiwi Technology Solution",
+		"duration": "January 2023 - April 2024",
+		"description": "- Spearhead the complete application lifecycle, ensuring development and deployment.\n- Lead a dynamic team of BE developers, fostering collaboration and innovation in project execution.\n- Develop robust Rest APIs, leveraging NodeJS, PostgreSQL, MongoDB, AWS, Firebase, Redis, Websocket, and OpenAI technologies.\n- Perform meticulous troubleshooting and debugging to maintain application integrity and performance.\n- Engineer reusable code modules to streamline future development cycles.\n- Collaborate closely with System Analysts to align development efforts with project objectives.\n- Provide detailed daily progress reports to Project Managers and Lead Manager."
+	},
+	{
+		"title": "Backend Developer",
+		"company": "PT Jojo Nomic Indonesia",
+		"duration": "September 2020 - November 2022",
+		"description": "- Drive the development of functional Rest APIs and Microservices, employing PHP (Lumen Laravel), NodeJS, Java, GO, MySQL, and MongoDB.\n- Execute rigorous troubleshooting and debugging procedures to uphold application reliability.n- Develop reusable code components to enhance scalability and maintainability.n- Coordinate seamlessly with System Analysts, Quality Assurance Testers, Frontend, and Mobile Developers.\n- Deliver comprehensive daily status updates to Project Managers and Tech Leads."
+	},
+	{
+		"title": "Software Engineer",
+		"company": "PT Cinovasi Rekaprima",
+		"duration": "October 2017 - June 2020",
+		"description": "- Contribute extensively to the complete application lifecycle, with a primary focus on coding and debugging\n- Craft clean, efficient codebases to power functional Rest APIs and web applications, utilizing PHP (Laravel, Symfony), Java (Struts Spring), Jquery, AJAX, Bootstrap, MySQL, and PostgreSQL\n- Conduct rigorous UI tests to optimize application performance and user experience\n- Develop reusable code libraries to expedite future development endeavors\n- Collaborate closely with Business Analysts and Quality Assurance Testers to ensure alignment with project requirements\n- Furnish detailed daily progress reports to Project Managers and the Chief Technology Officer (CTO)"
+	}
+]
