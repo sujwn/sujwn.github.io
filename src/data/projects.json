@@ -1,0 +1,8 @@
+[
+ { name: "Microservice Chassis", description: "A Node.js chassis for microservices.", tech: [SiNodedotjs, SiGraphql, SiMongodb] },
+ { name: "Bond Trading Platform", description: "A backend system for bond trading.", tech: [SiRust, SiDocker, SiMongodb] },
+ { name: "E-Tax Management System", description: "A system for electronic tax submissions.", tech: [SiTypescript, SiPostgresql, SiDocker] },
+ { name: "AI Chatbot", description: "A chatbot powered by AI for customer service.", tech: [SiPython, SiDocker, SiGraphql] },
+ { name: "Cloud Monitoring Tool", description: "A real-time monitoring system for cloud services.", tech: [SiGo, SiKubernetes, SiPostgresql] },
+ { name: "Portfolio Website", description: "A React-based personal portfolio site.", tech: [SiReact, SiTypescript, SiDocker] },
+]
