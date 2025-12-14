@@ -1,8 +1,17 @@
 [
 	{
+		"name": "sujwn.github.io",
+		"description": "You are looking at it right now.",
+		"year": "2025",
+		"contribution": "fullstack",
+		"category": "personal",
+		"stack": ["Node.js", "Svelte"],
+		"link": "https://sujwn.github.io/"
+	},
+	{
 		"name": "envus",
 		"description": "A lightweight environment config library that uses explicit schemas, strong typing, and nested structures to ensure safe and predictable runtime configuration.",
-		"year": "202",
+		"year": "2025",
 		"contribution": "backend",
 		"category": "opensource",
 		"stack": ["Node.js"],
