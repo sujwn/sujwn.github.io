@@ -1,0 +1,140 @@
+[
+	{
+		"name": "envus",
+		"description": "A lightweight environment config library that uses explicit schemas, strong typing, and nested structures to ensure safe and predictable runtime configuration.",
+		"year": "202",
+		"contribution": "backend",
+		"category": "opensource",
+		"stack": ["Node.js"],
+		"link": "https://github.com/sujwn/raw-query-builder"
+	},
+	{
+		"name": "raw-query-strings",
+		"description": "A simple module to allows you to generate a raw query strings",
+		"year": "2023",
+		"contribution": "backend",
+		"category": "opensource",
+		"stack": ["Node.js"],
+		"link": "https://github.com/sujwn/raw-query-builder"
+	},
+	{
+		"name": "Digital Banking Application (Wealth)",
+		"description": "A microservice-based digital banking platform for wealth management, supporting mutual funds, primary and secondary bonds, and e-tax biller services. Designed for scalability and security, it enables investment tracking, portfolio management, and informed financial decision-making.",
+		"year": "2025-present",
+		"contribution": "backend",
+		"category": "work",
+		"stack": [
+			"Node.js",
+			"Express",
+			"MongoDB",
+			"GraphQL",
+			"REST",
+			"Kafka",
+			"Redis",
+			"Openshift",
+			"Jenkins"
+		]
+	},
+	{
+		"name": "Legal & Precedent Management System",
+		"description": "A platform designed to efficiently organize, manage, and access national legal laws, precedents, and related legal content. It enables users to store, update, and search legal information, making it easier to maintain an up-to-date, comprehensive legal repository for reference and decision-making.",
+		"year": "2023 - 2024",
+		"contribution": "backend",
+		"category": "work",
+		"stack": [
+			"Node.js",
+			"Express",
+			"React",
+			"AWS",
+			"PostgreSQL",
+			"Redis",
+			"Websocket"
+		]
+	},
+	{
+		"name": "MyBuckit",
+		"description": "A social platform for sharing posts, keeping personal journals, and organizing group events, designed to support both personal reflection and social interaction.",
+		"year": "2024",
+		"contribution": "backend",
+		"category": "work",
+		"stack": [
+			"Node.js",
+			"Express",
+			"React",
+			"AWS",
+			"PostgreSQL",
+			"Redis",
+			"Websocket",
+			"Github Action"
+		],
+		"link": "https://my-buckit.co.kr"
+	},
+	{
+		"name": "SickGPT",
+		"description": "An AI-powered health consultation app that provides personalized insights, symptom analysis, and virtual consultations through healthcare specialist AI modes to support informed health decisions.",
+		"year": "2024",
+		"contribution": "backend",
+		"category": "work",
+		"stack": [
+			"Node.js",
+			"Express",
+			"React",
+			"Azure",
+			"MongoDB",
+			"OpenAI",
+			"Google OCR",
+			"Websocket",
+			"Github Action"
+		],
+		"link": "https://sickgpt.io"
+	},
+	{
+		"name": "Chain Restaurant Delivery App",
+		"description": "An application that lets users browser restaurant chains, place food orders, and track their delivery in real-time. With an easy-to-use interface, users can explore menu options, create their orders, and get live updates on the status of their delivery, ensuring a seamless and satisfying food ordering experience.",
+		"year": "2023",
+		"contribution": "fullstack",
+		"category": "work",
+		"stack": [
+			"Node.js",
+			"Express",
+			"React",
+			"AWS",
+			"PostgreSQL",
+			"Websocket",
+			"Maps API"
+		]
+	},
+	{
+		"name": "Payroll Management System",
+		"description": "A microservice-based payroll platform that automates salary, tax, benefit, and deduction processing with a scalable and secure architecture.",
+		"year": "2020 - 2022",
+		"contribution": "backend",
+		"category": "work",
+		"stack": [
+			"Laravel",
+			"Java",
+			"GO",
+			"AWS",
+			"MySQL",
+			"Kafka",
+			"Docker",
+			"Jenkins"
+		]
+	},
+	{
+		"name": "E-Governance Management System",
+		"description": "A corporate governance platform that automates policy management, compliance tracking, and internal decision-making with a focus on transparency and accountability.",
+		"year": "2019 - 2020",
+		"contribution": "fullstack",
+		"category": "work",
+		"stack": ["Java", "JSP", "PostgreSQL", "Websocket"]
+	},
+	{
+		"name": "Toll Road Management System",
+		"description": "A platform for managing toll operations, real-time traffic monitoring, incident reporting, and operational reporting to ensure smooth toll road operations.",
+		"year": "2019",
+		"contribution": "fullstack",
+		"category": "work",
+		"stack": ["PHP", "Symfony", "PostgreSQL", "Websocket", "Maps API"]
+	}
+]

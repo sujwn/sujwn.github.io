@@ -1,0 +1,71 @@
+/* =========================
+   DESIGN TOKENS
+   ========================= */
+
+/* Light theme */
+:root {
+  --bg: #ffffff;
+  --surface: #f9fafb;
+  --text: #0f172a;
+  --text-muted: #475569;
+  --border: #e2e8f0;
+
+  --surface-hover: #dde3e7;
+
+  /* Borders */
+  --border: #d6dde2;
+
+  /* Brand / accent */
+  --accent: #274c77;
+  /* Dusk Blue */
+  --accent-soft: #a3cef1;
+  /* Icy Blue */
+
+  /* Links */
+  --link: #274c77;
+  --link-hover: #6096ba;
+  /* Steel Blue */
+
+  /* Status */
+  --status-available: #22c55e;
+  --status-offline: #8b8c89;
+  /* Grey Olive */
+  --status-busy: #ef4444;
+
+  /* Focus */
+  --focus-ring: #a3cef1;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  --footer-bg: color-mix(in oklab, var(--bg), var(--border) 35%);
+}
+
+/* Dark theme */
+:root[data-theme="dark"] {
+  --bg: #0f141a;
+  --surface: #18222e;
+  --surface-hover: #1f2c3a;
+
+  --text: #e7ecef;
+  --text-muted: #9aa7b2;
+
+  --border: #263545;
+
+  --accent: #a3cef1;
+  /* Icy Blue becomes primary */
+  --accent-soft: #6096ba;
+
+  --link: #a3cef1;
+  --link-hover: #6096ba;
+
+  --status-available: #5fd18b;
+  --status-offline: #8b8c89;
+  --status-busy: #ff6b5a;
+
+  --focus-ring: #6096ba;
+
+  --footer-bg: color-mix(in oklab, var(--bg), #000 30%);
+}
