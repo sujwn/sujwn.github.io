@@ -65,12 +65,15 @@
 			"Grew technical breadth by working across multiple languages and stacks in real production environments."
 		],
 		"stack": [
-			"PHP (Lumen, Laravel)",
+			"PHP", 
+			"Laravel",
 			"Node.js",
 			"Java",
 			"Go",
 			"MySQL",
-			"MongoDB"
+			"MongoDB",
+			"Kafka",
+			"Jenkins"
 		]
 	},
 	{
@@ -81,7 +84,7 @@
 		"to": "June 2020",
 		"description": "Built a strong engineering foundation through hands-on work on real-world backend systems and applications.",
 		"achievements": [
-			"Played a key role in shipping backend features that supported active production systems.",
+			"Played a key role in shipping frontend & backend features that supported active production systems.",
 			"Contributed to multiple live applications used by internal and external users.",
 			"Improved long-term maintainability by writing clean, structured code and refactoring legacy parts.",
 			"Helped reduce defects and improve performance through consistent debugging and testing.",
