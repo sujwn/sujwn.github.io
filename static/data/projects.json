@@ -3,10 +3,10 @@
 		"name": "sujwn.github.io",
 		"description": "You are looking at it right now.",
 		"year": "2025",
-		"contribution": "fullstack",
+		"contribution": "frontend",
 		"category": "personal",
 		"stack": ["Node.js", "Svelte"],
-		"link": "https://sujwn.github.io/"
+		"link": "https://github.com/sujwn/sujwn.github.io"
 	},
 	{
 		"name": "envus",
@@ -15,7 +15,16 @@
 		"contribution": "backend",
 		"category": "opensource",
 		"stack": ["Node.js"],
-		"link": "https://github.com/sujwn/raw-query-builder"
+		"link": "https://www.npmjs.com/package/envus"
+	},
+	{
+		"name": "envus-cli",
+		"description": "A lightweight command-line tool for generating validated configuration files from .env.example. CLI scaffolder for envus.",
+		"year": "2025",
+		"contribution": "backend",
+		"category": "opensource",
+		"stack": ["Node.js", "Commander"],
+		"link": "https://www.npmjs.com/package/envus-cli"
 	},
 	{
 		"name": "raw-query-strings",
@@ -24,7 +33,34 @@
 		"contribution": "backend",
 		"category": "opensource",
 		"stack": ["Node.js"],
-		"link": "https://github.com/sujwn/raw-query-builder"
+		"link": "https://www.npmjs.com/package/raw-query-strings"
+	},
+	{
+		"name": "waktoo",
+		"description": "A fast, modern, dependency-free datetime engine for JavaScript — with strict UTC parsing, timezone support, locale formatting, durations, relative time, calendar outputs, and flexible formatting tokens.",
+		"year": "2025",
+		"contribution": "backend",
+		"category": "opensource",
+		"stack": ["Node.js"],
+		"link": "https://www.npmjs.com/package/waktoo"
+	},
+	{
+		"name": "bonsay",
+		"description": "A lightweight & expressive logger for modern JavaScript runtimes.",
+		"year": "2025",
+		"contribution": "backend",
+		"category": "opensource",
+		"stack": ["Node.js"],
+		"link": "https://www.npmjs.com/package/bonsay"
+	},
+	{
+		"name": "FwoomRouter",
+		"description": "High-performance, framework-agnostic HTTP router for Node.js, built on a segmented radix tree with an optional compiled mode for maximum speed.",
+		"year": "2025",
+		"contribution": "backend",
+		"category": "opensource",
+		"stack": ["Node.js"],
+		"link": "https://github.com/fwoomjs/fwoom-router"
 	},
 	{
 		"name": "Digital Banking Application (Wealth)",

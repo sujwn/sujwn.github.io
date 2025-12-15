@@ -7,8 +7,9 @@
 	import IconGitBranch from "$lib/icons/IconGitBranch.svelte";
 
 	import type { Project } from "$lib/types/project";
+	import IconSmileyCube from "$lib/icons/IconSmileyCube.svelte";
 
-	type Category = "personal" | "freelance" | "work" | "opensource";
+	type Category = "personal" | "freelance" | "work" | "opensource" | "fun";
 
 	let projects: Project[] = [];
 	let error: string | null = null;
@@ -28,6 +29,7 @@
 		freelance: IconBriefcase,
 		work: IconBuilding,
 		opensource: IconGitBranch,
+		fun: IconSmileyCube,
 	};
 
 	const categoryLabels: Record<Category, string> = {
@@ -35,6 +37,7 @@
 		opensource: "Open Source",
 		personal: "Personal",
 		freelance: "Freelance",
+		fun: "Fun Project"
 	};
 
 	/* Group projects by category (reactive) */
@@ -43,6 +46,7 @@
 		opensource: projects.filter((p) => p.category === "opensource"),
 		personal: projects.filter((p) => p.category === "personal"),
 		freelance: projects.filter((p) => p.category === "freelance"),
+		fun: projects.filter((p) => p.category === "fun"),
 	};
 
 	/* Categories open by default */
@@ -101,7 +105,7 @@
 				<div
 					class="category-content {openCategories.has(key as Category)
 						? 'open'
-						: ''}"
+						: 'close'}"
 				>
 					<div class="category-inner">
 						<div class="grid">
@@ -282,10 +286,17 @@
 	.category-inner {
 		overflow: hidden;
 		padding-top: 0;
+		transition: padding-top 0.15s ease;
 	}
 
 	.category-content.open .category-inner {
 		padding-top: 8px;
+		transition-delay: 0s;
+	}
+
+	.category-content.close .category-inner {
+		padding-top: unset;
+		transition-delay: 0.2s;
 	}
 
 	/* =========================
@@ -452,6 +463,13 @@
 		-webkit-line-clamp: 6;
 		-webkit-box-orient: vertical;
 		overflow: hidden;
+	}
+
+	@media (max-width: 640px) {
+		.project-description {
+			line-clamp: unset;
+			-webkit-line-clamp: unset;
+		}
 	}
 
 	/* =========================

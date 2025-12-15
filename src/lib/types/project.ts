@@ -3,7 +3,7 @@ export interface Project {
 	description?: string;
 	year: string;
 	contribution: "frontend" | "backend" | "fullstack";
-	category: "personal" | "freelance" | "work" | "opensource";
+	category: "personal" | "freelance" | "work" | "opensource" | "fun";
 	stack: string[];
 	link?: string;
 }
