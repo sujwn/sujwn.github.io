@@ -9,7 +9,11 @@
 <footer class="footer">
 	<div class="footer-inner">
 		<p class="afterword">
-			“Simplicity is the ultimate sophistication.” — Leonardo da Vinci<br><br>
+			<span class="afterword-quotes">
+				“Think lightly of yourself and deeply of the world.”
+			</span>
+			<br>
+			<span class="afterword-speaker"> — Musashi Miyamoto (Vagabond) </span>
 		</p>
 
 		<a
@@ -41,7 +45,7 @@
 
 		width: 100%;
 		background: var(--footer-bg);
-		border-top: 1px solid var(--border);
+		border-top: 2px solid var(--border);
 	}
 
 	.footer-inner {
@@ -51,10 +55,18 @@
 	}
 
 	.afterword {
-		max-width: 520px;
+		max-width: 700px;
 		margin: 0 auto 20px;
-		font-size: 18px;
+		/* font-size: 18px; */
 		line-height: 1.6;
+	}
+
+	.afterword-quotes {
+		font-size: 18px;
+	}
+
+	.afterword-speaker {
+		font-size: 16px;
 	}
 
 	/* Contact button */
