@@ -62,11 +62,11 @@
 	}
 
 	.afterword-quotes {
-		font-size: 18px;
+		font-size: 16px;
 	}
 
 	.afterword-speaker {
-		font-size: 16px;
+		font-size: 14px;
 	}
 
 	/* Contact button */

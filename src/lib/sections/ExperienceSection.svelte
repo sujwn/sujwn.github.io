@@ -91,11 +91,27 @@
 	.experience-item {
 		position: relative;
 		padding: 16px 16px 16px 20px;
-		border-left: 3px solid var(--accent-soft);
+		border-left: 3px solid var(--border);
 		border-radius: 8px;
 		cursor: pointer;
 		transition: background-color 0.2s ease;
 	}
+
+	.experience-item[aria-expanded="true"] {
+		border-color: var(--accent-soft);
+		background: var(--surface-hover);
+	}
+
+	/* .experience-item::before {
+		content: "";
+		position: absolute;
+		left: 0;
+		top: 8px;
+		bottom: 8px;
+		width: 2px;
+		background: var(--border);
+		border-radius: 2px;
+	} */
 
 	.experience-item:hover {
 		background: var(--surface-hover);

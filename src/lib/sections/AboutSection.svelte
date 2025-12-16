@@ -107,6 +107,10 @@
 		padding: 20px 24px 24px;
 	}
 
+	.about-card:hover {
+		background: color-mix(in oklab, var(--surface-hover), var(--border) 35%);
+	}
+
 	/* Theme toggle */
 	.about-top {
 		display: flex;
@@ -222,7 +226,7 @@
 
 	.name {
 		font-size: 34px;
-		font-weight: 700;
+		/* font-weight: 700; */
 		line-height: 1.2;
 		margin: 0;
 	}
