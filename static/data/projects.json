@@ -5,7 +5,7 @@
 		"year": "2025",
 		"contribution": "frontend",
 		"category": "personal",
-		"stack": ["Node.js", "Svelte"],
+		"stack": ["Svelte", "Typescript"],
 		"link": "https://github.com/sujwn/sujwn.github.io"
 	},
 	{
@@ -14,7 +14,7 @@
 		"year": "2025",
 		"contribution": "backend",
 		"category": "opensource",
-		"stack": ["Node.js"],
+		"stack": ["Javascript", "Typescript"],
 		"link": "https://www.npmjs.com/package/envus"
 	},
 	{
@@ -23,7 +23,7 @@
 		"year": "2025",
 		"contribution": "backend",
 		"category": "opensource",
-		"stack": ["Node.js", "Commander"],
+		"stack": ["Javascript", "Typescript", "Commander"],
 		"link": "https://www.npmjs.com/package/envus-cli"
 	},
 	{
@@ -32,7 +32,7 @@
 		"year": "2023",
 		"contribution": "backend",
 		"category": "opensource",
-		"stack": ["Node.js"],
+		"stack": ["Javascript"],
 		"link": "https://www.npmjs.com/package/raw-query-strings"
 	},
 	{
@@ -41,7 +41,7 @@
 		"year": "2025",
 		"contribution": "backend",
 		"category": "opensource",
-		"stack": ["Node.js"],
+		"stack": ["Javascript"],
 		"link": "https://www.npmjs.com/package/waktoo"
 	},
 	{
@@ -50,7 +50,7 @@
 		"year": "2025",
 		"contribution": "backend",
 		"category": "opensource",
-		"stack": ["Node.js"],
+		"stack": ["Javascript", "Typescript"],
 		"link": "https://www.npmjs.com/package/bonsay"
 	},
 	{
@@ -59,7 +59,7 @@
 		"year": "2025",
 		"contribution": "backend",
 		"category": "opensource",
-		"stack": ["Node.js"],
+		"stack": ["Javascript", "Typescript"],
 		"link": "https://github.com/fwoomjs/fwoom-router"
 	},
 	{
@@ -70,7 +70,6 @@
 		"category": "work",
 		"stack": [
 			"Node.js",
-			"Express",
 			"MongoDB",
 			"GraphQL",
 			"REST",
