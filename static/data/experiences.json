@@ -1,0 +1,105 @@
+[
+	{
+		"id": 1,
+		"role": "Digital Solution WMB - Backend Developer",
+		"company": "SMBCI Indonesia (Jenius)",
+		"from": "May 2024",
+		"to": "Present",
+		"description": "Developing scalable backend architectures for digital banking systems.",
+		"achievements": [
+			"Designed and implemented scalable backend services supporting high-volume financial transactions.",
+			"Improved system reliability and performance through better caching, async processing, and service optimization.",
+			"Contributed to the development of core banking features including bonds, mutual funds, sbn, and e-tax services.",
+			"Collaborated closely with cross-functional teams to deliver secure, compliant, and production-ready solutions.",
+			"Maintained clean, well-documented codebases aligned with industry best practices and internal standards."
+		],
+		"stack": [
+			"Node.js",
+			"MongoDB",
+			"GraphQL",
+			"REST",
+			"Kafka",
+			"Redis",
+			"Docker",
+			"Jenkins",
+			"Openshift"
+		]
+	},
+	{
+		"id": 2,
+		"role": "Backend Developer",
+		"company": "PT Pratiwi Technology Solution",
+		"from": "January 2023",
+		"to": "April 2024",
+		"description": "Led backend engineering efforts for multiple projects, focusing on scalability, reliability, and team efficiency.",
+		"achievements": [
+			"Led successful delivery of multiple backend-driven projects from development through production.",
+			"Improved development velocity by introducing reusable modules and shared backend patterns.",
+			"Stabilized production systems by resolving critical issues and reducing recurring bugs.",
+			"Strengthened team execution by mentoring backend developers and improving collaboration practices.",
+			"Helped align technical decisions with business goals through close coordination with analysts and managers."
+		],
+		"stack": [
+			"Node.js",
+			"React",
+			"REST",
+			"PostgreSQL",
+			"MongoDB",
+			"AWS",
+			"Firebase",
+			"Redis",
+			"WebSocket",
+			"OpenAI SDK"
+		]
+	},
+	{
+		"id": 3,
+		"role": "Backend Developer",
+		"company": "PT Jojo Nomic Indonesia",
+		"from": "September 2020",
+		"to": "November 2022",
+		"description": "Contributed to the growth and stability of backend systems by improving reliability and supporting evolving product needs.",
+		"achievements": [
+			"Helped improve system stability by identifying root causes of recurring issues and fixing them at the source.",
+			"Reduced future development friction by introducing reusable services and cleaner service boundaries.",
+			"Grew technical breadth by working across multiple languages and stacks in real production environments."
+		],
+		"stack": [
+			"PHP", 
+			"Laravel",
+			"Node.js",
+			"Java",
+			"Go",
+			"MySQL",
+			"MongoDB",
+			"Kafka",
+			"Jenkins"
+		]
+	},
+	{
+		"id": 4,
+		"role": "Software Engineer",
+		"company": "PT Cinovasi Rekaprima",
+		"from": "October 2017",
+		"to": "June 2020",
+		"description": "Built a strong engineering foundation through hands-on work on real-world backend systems and applications.",
+		"achievements": [
+			"Played a key role in shipping frontend & backend features that supported active production systems.",
+			"Contributed to multiple live applications used by internal and external users.",
+			"Improved long-term maintainability by writing clean, structured code and refactoring legacy parts.",
+			"Helped reduce defects and improve performance through consistent debugging and testing.",
+			"Created internal reusable utilities that simplified future feature development."
+		],
+		"stack": [
+			"Laravel",
+			"Symfony",
+			"Apache Struts",
+			"Spring Boot",
+			"jQuery",
+			"AJAX",
+			"MySQL",
+			"PostgreSQL",
+			"MQTT"
+		]
+	}
+]

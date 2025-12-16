@@ -1,0 +1,12 @@
+<article class="card">
+	<slot />
+</article>
+
+<style>
+	.card {
+		background: var(--surface);
+		border: 1px solid var(--border);
+		border-radius: 12px;
+		padding: 16px;
+	}
+</style>
