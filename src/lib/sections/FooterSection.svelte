@@ -21,7 +21,7 @@
 			class="contact-button"
 			aria-label="Leave a message via email"
 		>
-			<IconMail />
+			<IconMail size="18px" />
 			<span>Leave a message</span>
 		</a>
 

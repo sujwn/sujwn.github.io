@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let size = 18;
+	export let size: string | number = '1em';
 	export let strokeWidth = 1.8;
 </script>
 
@@ -7,7 +7,7 @@
 	width={size}
 	height={size}
 	viewBox="0 0 24 24"
-	fill="none"
+	fill="curren"
 	xmlns="http://www.w3.org/2000/svg"
 	aria-hidden="true"
 >

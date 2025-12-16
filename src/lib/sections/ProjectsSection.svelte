@@ -1,12 +1,13 @@
 <script lang="ts">
-	import { onMount } from "svelte";
+	import { onMount, type Component } from "svelte";
+	import type { Project } from "$lib/types/project";
+	import type { IconProps } from "$lib/types/iconProps";
+
 	import IconExternalLink from "$lib/icons/IconExternalLink.svelte";
 	import IconUser from "$lib/icons/IconUser.svelte";
 	import IconBriefcase from "$lib/icons/IconBriefcase.svelte";
 	import IconBuilding from "$lib/icons/IconBuilding.svelte";
 	import IconGitBranch from "$lib/icons/IconGitBranch.svelte";
-
-	import type { Project } from "$lib/types/project";
 	import IconSmileyCube from "$lib/icons/IconSmileyCube.svelte";
 
 	type Category = "personal" | "freelance" | "work" | "opensource" | "fun";
@@ -24,7 +25,7 @@
 		}
 	});
 
-	const categoryIcons: Record<Category, typeof IconUser> = {
+	const categoryIcons: Record<Category, Component<IconProps>> = {
 		personal: IconUser,
 		freelance: IconBriefcase,
 		work: IconBuilding,
@@ -37,7 +38,7 @@
 		opensource: "Open Source",
 		personal: "Personal",
 		freelance: "Freelance",
-		fun: "Fun Project"
+		fun: "Fun Project",
 	};
 
 	/* Group projects by category (reactive) */
@@ -290,7 +291,7 @@
 	}
 
 	.category-content.open .category-inner {
-		padding-top: 8px;
+		padding-top: 12px;
 		transition-delay: 0s;
 	}
 
@@ -305,7 +306,7 @@
 
 	.grid {
 		display: grid;
-		gap: 16px;
+		gap: 12px;
 	}
 
 	@media (min-width: 640px) {
