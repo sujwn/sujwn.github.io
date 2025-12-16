@@ -210,7 +210,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		padding: 6px 8px;
+		padding: 6px 18px 6px 8px;
 		border-radius: 8px;
 		cursor: pointer;
 		transition: background-color 0.15s ease;
