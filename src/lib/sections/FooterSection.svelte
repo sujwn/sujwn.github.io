@@ -10,10 +10,10 @@
 	<div class="footer-inner">
 		<p class="afterword">
 			<span class="afterword-quotes">
-				“Think lightly of yourself and deeply of the world.”
+				“Simplicity is the ultimate sophistication.”
 			</span>
 			<br>
-			<span class="afterword-speaker"> — Musashi Miyamoto (Vagabond) </span>
+			<span class="afterword-speaker"> — Leonardo da Vinci</span>
 		</p>
 
 		<a

@@ -201,7 +201,7 @@
 
 	/* Achievements list */
 	.achievements {
-		padding-left: 14px; /* reduced from default */
+		padding-left: 16px;
 		margin: 0 0 12px;
 		font-size: 14px;
 		line-height: 1.6;

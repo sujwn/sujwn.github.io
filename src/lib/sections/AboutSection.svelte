@@ -242,7 +242,6 @@
 		width: 100%;
 		height: 1px;
 		background: color-mix(in oklab, var(--border), var(--text) 30%);
-		margin: 6px 0; /* reduced vertical space */
 	}
 
 	.bio {
@@ -304,6 +303,10 @@
 
 		.bio {
 			text-align: center;
+		}
+
+		.divider {
+			margin: 6px 0;
 		}
 
 		.actions {
