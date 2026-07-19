@@ -71,7 +71,7 @@
 			<div class="brand-mark">{initials}</div>
 			<div>
 				<div class="brand-name">{name}</div>
-				<div class="brand-role">~/backend-developer</div>
+				<div class="brand-role">~/backend-dev</div>
 			</div>
 		</div>
 		<button
