@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>{profile.name} — Backend Engineer</title>
+	<title>{profile.name} — Backend Developer</title>
 	<meta name="description" content={profile.description} />
 </svelte:head>
 
