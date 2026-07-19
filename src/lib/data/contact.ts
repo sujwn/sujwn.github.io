@@ -6,5 +6,5 @@ export const contact: Contact = {
 	sub: "A few lines about what you're building is enough. I usually reply within two days.",
 	email: "suhlanijuwan@gmail.com",
 	ctaLabel: "Leave a message",
-	footerNote: "built & deployed by hand",
+	footerNote: "built with care, and svelte.",
 };
