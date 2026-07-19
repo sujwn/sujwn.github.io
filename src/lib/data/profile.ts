@@ -1,27 +1,17 @@
-export const profile = {
-	name: "Your Name",
-	nickname: "almond",
-	title: "Backend / Fullstack Developer",
-	bio: `
-Building calm, reliable software with clean architecture
-and long-term maintainability in mind.
-	`.trim(),
-	email: "suhlani.juwan@gmail.com",
-	avatar: "/almond.png",
-	links: {
-		github: "https://github.com/yourname",
-		linkedin: "https://linkedin.com/in/yourname",
-		instagram: "https://instagram.com/yourname",
-		web: "https://yourwebsite.com",
-	},
-	status: "available",
-} satisfies {
-	name: string;
-	nickname: string;
-	title: string;
-	bio: string;
-	email?: string;
-	avatar: string;
-	links: Record<string, string>;
-	status: "available" | "unavailable" | "busy";
+import type { Profile } from '$lib/types';
+
+export const profile: Profile = {
+	name: 'Suhlani Juwan',
+	initials: 'SJ',
+	eyebrow: 'backend engineer',
+	tagline: 'building APIs & the systems behind them',
+	description:
+		"I design and operate the machinery behind the screen — APIs, data pipelines, and infrastructure that stay fast and predictable under load. Seven years turning messy requirements into services that don't page anyone at 3 a.m.",
+	photo: 'profile_01.png',
+	socials: [
+		{ label: 'GitHub', href: 'https://github.com/sujwn', icon: 'github' },
+		{ label: 'LinkedIn', href: 'https://linkedin.com/in/suju', icon: 'linkedin' },
+		// { label: 'X', href: 'https://x.com/sujwn_', icon: 'x' },
+		{ label: 'Email', href: 'mailto:suhlanijuwan@gmail.com', icon: 'email' }
+	]
 };
