@@ -3,10 +3,22 @@ import type { CategorySettings, Project } from "$lib/types";
 export const categorySettings: Record<string, CategorySettings> = {
 	opensource: { title: "Open Source", collapsed: false },
 	work: { title: "Work", collapsed: true },
+	sideproject: { title: "Side Project", collapsed: false },
+	product: { title: "Product", collapsed: false },
 	personal: { title: "Personal", collapsed: false },
 };
 
 export const projects: Project[] = [
+	{
+		name: "TOBUKO",
+		description:
+			"A bookmark and URL manager that lives in the browser side panel. Click the toolbar icon and the panel opens directly — no popup. It allows you to save, organize, and manage your bookmarks and URLs efficiently.",
+		year: "2026",
+		contribution: "fullstack",
+		category: "sideproject",
+		stack: ["Node.js", "SvelteKit", "TypeScript", "PostgreSQL", "Supabase"],
+		link: "https://chromewebstore.google.com/detail/tobuko/gaoodhkengmbdlcpcbgehejkdgmjjeim?hl=en-US",
+	},
 	{
 		name: "envus",
 		description:
